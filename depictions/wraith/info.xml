@@ -1,0 +1,25 @@
+<package>
+	<id>Wraith</id>
+	<name>Wraith</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>iOS >= 8.0, mobilesubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>اداه رفع وحفظ الصور للسناب  
+		</description>
+	</descriptionlist>
+	<screenshots>			
+	</screenshots>
+	<changelog>
+
+	</changelog>
+	
+</package>
