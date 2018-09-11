@@ -1,4 +1,4 @@
-Package: com.azoozka0.watusi
+Package: com.azoozx8.watusi
 Architecture: iphoneos-arm
 Version: 1.0.17
 Section: Tweaks
@@ -13,7 +13,7 @@ Size: 3084210
 MD5sum: 5ea0f3b3cab1ce4cb92e64aed2170a45
 Filename: ./debs/watusi_1.0.17.deb
 
-Package: com.azoozka0.anemone
+Package: com.azoozx8.anemone
 Architecture: iphoneos-arm
 Version: 1.0.17
 Section: Themes
@@ -27,3 +27,18 @@ Depiction: https://worldcydia0.github.io/depictions/?p=Anemone
 Size: 1868662  
 MD5sum: ae3df40f3a84bc0b7b772b29769cc313
 Filename: ./debs/anemone_2.1.81.deb
+
+Package: com.azoozx8.Wraith
+Architecture: iphoneos-arm
+Version: 1.0.17
+Section: Tweaks
+Maintainer: Justin Carlson
+Depends: mobilesubstrate, firmware (>= 8.0)
+Homepage: http://twitter.com/world_cydia
+Description: تفعيل اداه لرفع الصور فقط  
+Name: Anemone
+Author: Anemone
+Depiction: https://worldcydia0.github.io/depictions/?p=wraith
+Size: 1868662  
+MD5sum: 48c1e84cf1292ed8e4a25fccad93a2f2
+Filename: ./debs/wraith_0.0.1.deb
