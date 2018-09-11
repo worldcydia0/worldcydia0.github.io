@@ -5,10 +5,25 @@ Section: Tweaks
 Maintainer: Fouad Raheb
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.f0u4d.watusitools (>= 1.3.22), applist, com.rpetrich.rocketbootstrap, jp.ashikase.libpackageinfo
 Homepage: http://twitter.com/ijulioverne
-Description: تغيير الخلفيات بشكل تلقائي
+Description: اضافات عديد للواتس اب 
 Name: Watusi 2 for WhatsApp
 Author: Fouad Raheb
 Depiction: https://worldcydia0.github.io/depictions/?p=watusi
 Size: 3084210 
 MD5sum: 5ea0f3b3cab1ce4cb92e64aed2170a45
 Filename: ./debs/watusi_1.0.17.deb
+
+Package: com.azoozka0.anemone
+Architecture: iphoneos-arm
+Version: 1.0.17
+Section: Themes
+Maintainer: Fouad Raheb
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
+Homepage: http://twitter.com/world_cydia
+Description: تفعيل ثيمات 
+Name: Anemone
+Author: Anemone
+Depiction: https://worldcydia0.github.io/depictions/?p=Anemone
+Size: 1868662  
+MD5sum: ae3df40f3a84bc0b7b772b29769cc313
+Filename: ./debs/anemone_2.1.81.deb

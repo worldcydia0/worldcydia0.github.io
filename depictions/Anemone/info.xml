@@ -1,0 +1,25 @@
+<package>
+	<id>Anemone</id>
+	<name>Anemone</name>
+	<version>2.1.8-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>iOS >= 7.0), mobilesubstrate, pincrush</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>لتفعيل الثيمات 
+		</description>
+	</descriptionlist>
+	<screenshots>			
+	</screenshots>
+	<changelog>
+		<change>لتفعيل ثيمات</change>
+	</changelog>
+	
+</package>
