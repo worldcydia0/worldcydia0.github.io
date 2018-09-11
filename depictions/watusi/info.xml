@@ -1,0 +1,27 @@
+<package>
+	<id>watusi</id>
+	<name>Watusi 2 for WhatsApp</name>
+	<version>1.0.17</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>iOS >= 8.0, MobileSubstrate, PreferenceLoader, WatusiTools, Applist, Rocketbootstrap, libpackageinfo</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>إضافات عديدة لتطبيق الواتس اب
+		</description>
+	</descriptionlist>
+	<screenshots>			
+	</screenshots>
+	<changelog>
+		<change>إضافة الدعم لإصدار 2.18.90</change>
+		<change>تغيير 2</change>
+		<change>تغيير 3</change>
+	</changelog>
+	
+</package>
