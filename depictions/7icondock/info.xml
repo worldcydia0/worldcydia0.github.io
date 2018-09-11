@@ -1,0 +1,30 @@
+<package>
+	<id>7icondock</id>
+	<name>7iconDock</name>
+	<version>0.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>MobileSubstrate</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>السماح بإضافة سبع ايقونات للدوك السفلي
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>			
+			<image>1.jpg</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>اصلاح عدم توافق الايقونات مع حجم الشاشة </change>
+	<change>تحسينات عامه من هنا وهناك</change>
+	</changelog>
+	
+</package>
