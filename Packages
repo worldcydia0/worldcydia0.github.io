@@ -42,3 +42,18 @@ Depiction: https://worldcydia0.github.io/depictions/?p=wraith
 Size: 1868662  
 MD5sum: 48c1e84cf1292ed8e4a25fccad93a2f2
 Filename: ./debs/wraith_0.0.1.deb
+
+Package: com.azoozx8.lockplus
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Addons
+Maintainer: JunesiPhone
+Depends: mobilesubstrate, preferenceloader
+Homepage: http://twitter.com/world_cydia
+Description: LockPlus 
+Name: LockPlus Pro
+Author: lockplus
+Depiction: https://worldcydia0.github.io/depictions/?p=lockplus
+Size: 11753604   
+MD5sum: 5a1b22fea90f2831d22131d5e48743b8
+Filename: ./debs/lockplus.deb

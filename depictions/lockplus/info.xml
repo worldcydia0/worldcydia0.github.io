@@ -1,0 +1,25 @@
+<package>
+	<id>LockPlus</id>
+	<name>LockPlus Pro</name>
+	<version>1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<shortDescription></shortDescription>
+	<descriptionlist>
+		<description>LockPlus Pro 
+		</description>
+	</descriptionlist>
+	<screenshots>			
+	</screenshots>
+	<changelog>
+
+	</changelog>
+	
+</package>
